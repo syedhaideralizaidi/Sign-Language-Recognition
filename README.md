@@ -16,12 +16,4 @@
 <p>Run ROIinOpenCV.py</p>
 
 
-![Screenshot 2019-03-31 at 2 35 30 PM](https://user-images.githubusercontent.com/29236532/55287090-3f2a2c00-53c2-11e9-92ac-2b04f391b06d.png)
 
-
-
-<p>Read the entire process at:</p>
-<link>http://arshad-kazi.com/sign-language-recognition-using-cnn-and-opencv/</link>
-
-<h2>Similar Project(s)</h2>
-<a href= 'https://github.com/Arshad221b/Multi-Task-Learning-for-Images-age-gender'>Multi Task learning for Images: Age and Gender Prediction</a>
